@@ -1,0 +1,7 @@
+{
+  "name": "javascript-poo",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
